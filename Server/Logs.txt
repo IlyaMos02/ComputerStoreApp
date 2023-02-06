@@ -1,0 +1,128 @@
+Select * from Products order by id_product desc
+insert into Products values (@name, @description, @price, @status)
+Id - 0, Name - New, Descriprion - Hope, Price - 300, Status - unavailable
+Select * from Products order by id_product desc
+Select * from Admins where name = @name29.12.2022 17:55:24
+Ilya
+Select * from Products order by id_product desc29.12.2022 17:55:26
+insert into Products values (@name, @description, @price, @status)29.12.2022 17:55:49
+Id - 0, Name - Bol, Descriprion - Few, Price - 550, Status - Available
+Select * from Products order by id_product desc29.12.2022 17:55:56
+delete from Products where id_product=@id29.12.2022 17:56:03
+Select * from Products order by id_product desc29.12.2022 17:56:12
+update Products set name=@name, description=@description, price=@price, status=@status where id_product=@id29.12.2022 17:56:31
+Id - 1005, Name - New, Descriprion - Hopies, Price - 300, Status - Unavailable
+Select * from Products order by id_product desc29.12.2022 17:56:38
+Select * from Admins where name = @name	30.12.2022 10:13:38
+Ilya
+Select * from Products order by id_product desc	30.12.2022 10:13:40
+Select * from Admins where name = @name	30.12.2022 10:13:50
+Alex
+Select * from Admins where name = @name	30.12.2022 10:14:05
+Alex
+Select * from Products order by id_product desc	30.12.2022 10:14:07
+insert into Products values (@name, @description, @price, @status)	30.12.2022 10:14:56
+Id - 0, Name - Good, Descriprion - Top, Price - 300, Status - Unavailable
+Select * from Products order by id_product desc	30.12.2022 10:15:03
+insert into Products values (@name, @description, @price, @status)	30.12.2022 10:15:06
+Id - 0, Name - Ert, Descriprion - -, Price - 560, Status - Available
+Select * from Products order by id_product desc	30.12.2022 10:15:13
+Select * from Products order by id_product desc	30.12.2022 10:15:19
+update Products set name=@name, description=@description, price=@price, status=@status where id_product=@id	30.12.2022 10:16:15
+Id - 2002, Name - Good, Descriprion - Topies, Price - 300, Status - Unavailable
+Select * from Products order by id_product desc	30.12.2022 10:16:22
+update Products set name=@name, description=@description, price=@price, status=@status where id_product=@id	30.12.2022 10:16:25
+Id - 2003, Name - Ert, Descriprion - Bully, Price - 560, Status - Available
+Select * from Products order by id_product desc	30.12.2022 10:16:32
+delete from Products where id_product=@id	30.12.2022 10:23:24
+delete from Products where id_product=@id	30.12.2022 10:23:31
+Select * from Products order by id_product desc	30.12.2022 10:23:32
+Select * from Products order by id_product desc	30.12.2022 10:23:39
+Select * from Products order by id_product desc	30.12.2022 10:23:41
+Select * from Admins where name = @name	30.12.2022 11:17:33
+Ilya
+Select * from Admins where name = @name	30.12.2022 11:18:55
+Ilya
+Select * from Admins where name = @name	30.12.2022 11:25:51
+Ilya
+Select * from Products order by id_product desc	30.12.2022 11:25:55
+insert into Products values (@name, @description, @price, @status)	30.12.2022 11:38:30
+Id - 0, Name - MainView, Descriprion - Zop, Price - 110, Status - Unavailable
+Select * from Products order by id_product desc	30.12.2022 11:38:37
+update Products set name=@name, description=@description, price=@price, status=@status where id_product=@id	30.12.2022 11:41:03
+Id - 2004, Name - Ber, Descriprion - Zop, Price - 110, Status - Unavailable
+Select * from Admins where name = @name	30.12.2022 11:42:19
+Ilya
+Select * from Admins where name = @name	30.12.2022 11:42:28
+Ilya
+Select * from Admins where name = @name	30.12.2022 11:43:37
+Ilya
+Select * from Products order by id_product desc	30.12.2022 11:43:39
+update Products set name=@name, description=@description, price=@price, status=@status where id_product=@id	30.12.2022 11:43:57
+Id - 2004, Name - Beries, Descriprion - Zop, Price - 110, Status - Unavailable
+Select * from Products order by id_product desc	30.12.2022 11:44:04
+delete from Products where id_product=@id	30.12.2022 11:46:16
+Select * from Products order by id_product desc	30.12.2022 11:46:35
+Select * from Products where id_product=@id or name like '%'+@name+'%' order by id_product desc	30.12.2022 11:48:01
+Select * from Products order by id_product desc	30.12.2022 11:48:33
+Select * from Admins where name = @name	30.12.2022 12:20:08
+Ily
+Select * from Admins where name = @name	30.12.2022 12:21:08
+Ilya
+Select * from Products order by id_product desc	30.12.2022 12:21:24
+Select * from Admins where name = @name	30.12.2022 15:47:33
+Ilya
+Select * from Products order by id_product desc	30.12.2022 15:47:36
+Select * from Admins where name = @name	30.12.2022 15:49:00
+Ilya
+Select * from Products order by id_product desc	30.12.2022 15:49:02
+insert into Products values (@name, @description, @price, @status)	30.12.2022 15:49:15
+Id - 0, Name - Noew, Descriprion - -, Price - 123, Status - Available
+Select * from Products order by id_product desc	30.12.2022 15:49:22
+delete from Products where id_product=@id	30.12.2022 15:49:27
+Select * from Products order by id_product desc	30.12.2022 15:49:36
+Select * from Admins where name = @name	30.12.2022 16:51:14
+Ilya
+Select * from Products order by id_product desc	30.12.2022 16:51:40
+insert into Products values (@name, @description, @price, @status)	30.12.2022 16:53:30
+Id - 0, Name - Boer, Descriprion - -, Price - 123, Status - Available
+Select * from Products order by id_product desc	30.12.2022 16:53:37
+update Products set name=@name, description=@description, price=@price, status=@status where id_product=@id	30.12.2022 16:55:31
+Id - 3003, Name - Boeriew, Descriprion - Something, Price - 123, Status - Unavailable
+Select * from Products order by id_product desc	30.12.2022 16:55:38
+delete from Products where id_product=@id	30.12.2022 16:56:18
+Select * from Products order by id_product desc	30.12.2022 16:56:28
+Select * from Admins where name = @name	02.01.2023 8:32:38
+Ilya
+Select * from Products order by id_product desc	02.01.2023 8:33:31
+Select * from Products where id_product=@id or name like '%'+@name+'%' order by id_product desc	02.01.2023 8:34:02
+Select * from Products where id_product=@id or name like '%'+@name+'%' order by id_product desc	02.01.2023 8:34:24
+Select * from Products order by id_product desc	02.01.2023 8:34:32
+insert into Products values (@name, @description, @price, @status)	02.01.2023 8:35:07
+Id - 0, Name - Mij, Descriprion - -, Price - 950, Status - Available
+Select * from Products order by id_product desc	02.01.2023 8:35:14
+Select * from Admins where name = @name	02.01.2023 8:36:22
+Alex
+Select * from Products order by id_product desc	02.01.2023 8:36:27
+insert into Products values (@name, @description, @price, @status)	02.01.2023 8:37:17
+Id - 0, Name - Uni, Descriprion - -, Price - 550, Status - Unavailable
+Select * from Products order by id_product desc	02.01.2023 8:37:24
+insert into Products values (@name, @description, @price, @status)	02.01.2023 8:37:34
+Id - 0, Name - Wer, Descriprion - Loop, Price - 654, Status - Available
+Select * from Products order by id_product desc	02.01.2023 8:37:41
+update Products set name=@name, description=@description, price=@price, status=@status where id_product=@id	02.01.2023 8:40:02
+Id - 3005, Name - Uni, Descriprion - Init, Price - 550, Status - Unavailable
+Select * from Products order by id_product desc	02.01.2023 8:40:09
+update Products set name=@name, description=@description, price=@price, status=@status where id_product=@id	02.01.2023 8:40:19
+Id - 3005, Name - Uni, Descriprion - Via, Price - 550, Status - Unavailable
+Select * from Products order by id_product desc	02.01.2023 8:40:26
+update Products set name=@name, description=@description, price=@price, status=@status where id_product=@id	02.01.2023 8:50:46
+Id - 3005, Name - Uni, Descriprion - Inities, Price - 550, Status - Unavailable
+Select * from Products order by id_product desc	02.01.2023 8:50:53
+update Products set name=@name, description=@description, price=@price, status=@status where id_product=@id	02.01.2023 8:51:01
+Id - 3006, Name - Wer, Descriprion - Loopies, Price - 654, Status - Available
+Select * from Products order by id_product desc	02.01.2023 8:51:08
+delete from Products where id_product=@id	02.01.2023 8:51:42
+delete from Products where id_product=@id	02.01.2023 8:51:46
+Select * from Products order by id_product desc	02.01.2023 8:51:51
+Select * from Products order by id_product desc	02.01.2023 8:51:57
